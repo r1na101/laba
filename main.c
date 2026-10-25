@@ -8,3 +8,5 @@ int main() {
 	printf("Difference: %d\n", diff);
 	return 0;
 }
+// изменение для 10*
+// еще одно
