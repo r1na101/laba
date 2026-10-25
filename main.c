@@ -6,6 +6,5 @@ int main() {
 	scanf("%d %d", &a, &b);
 	int diff = a - b;
 	printf("Difference: %d\n", diff);
-	printf(":D\n");
 	return 0;
 }
